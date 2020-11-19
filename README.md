@@ -12,9 +12,10 @@ sh eco-log.sh
 
 2. Enter the file name:
 
-``
+```
 echo-coding-challenge-logs.csv
 ```
+
 2. Enter search string:
 
 ```
